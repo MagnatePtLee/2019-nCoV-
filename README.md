@@ -11,6 +11,7 @@
 * 世界各国实时数据(截止4-1)
 * 世界各国历史数据
 * 中国疫情统计数据(1-20～4-1）
+![](https://github.com/MagnatePtLee/2019-nCoV-/edit/master/picture_show/DataType.png) 
 
 处理过程：
 ---
